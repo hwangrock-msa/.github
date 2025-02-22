@@ -1,12 +1,10 @@
-## Hi there 👋
+## 주제
+MSA 시스템의 구축과 최적의 성능을 테스트하기 위한 실험 프로젝트입니다.
 
-<!--
+## 목표
+1. 저비용 (모든 서버 프리티어로 돌아가도록)
+2. 최적화 (프리티어에서 제일 좋은 성능을 테스트)
+3. 정확성 (서버의 목표하는 로직을 구현)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Architecture
+![ ](../presentation/msa_test.png) 
